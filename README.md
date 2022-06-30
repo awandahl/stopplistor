@@ -1,4 +1,4 @@
-# stopplistor
+# Stopplistor
 
 Stopplistor för DiVA-kontroller och importer
 
