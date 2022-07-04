@@ -16,3 +16,9 @@ https://kth.diva-portal.org/smash/export.jsf?format=csv&addFilename=true&aq=[[{"
 
 ````
 
+#### Dubbletter i Scopus
+
+````
+https://kth.diva-portal.org/smash/export.jsf?format=csv&addFilename=true&aq=[[{"freeText":"Duplicate in Scopus"}],[]]&aqe=[]&aq2=[[]]&onlyFullText=false&noOfRows=9999&sortOrder=title_sort_asc&sortOrder2=title_sort_asc&csvType=publication&fl=PID,DOI,ISI,ScopusId,Notes
+
+````
